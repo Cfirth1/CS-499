@@ -133,13 +133,3 @@ https://1drv.ms/v/c/54f982c42096bc3b/EZt-sCbD2AZImRAYZEugNKUBLhmqYzYmwvo6ZvFYrCO
 
 **Enhancement_3.2_Vid:**
 https://1drv.ms/v/c/54f982c42096bc3b/ER5jud74feFJr0ZdUqIZXmoB8MyL2EGWVN44gwELVLYpvQ?e=E99p5a
-
----
-
-## GitHub Pages Link
-
-[View My CS-499 ePortfolio](https://Cfirth1.github.io/CS-499/)
-
----
-
-*This page was generated using GitHub Pages.*
